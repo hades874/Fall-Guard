@@ -9,7 +9,7 @@ Fall-Guard is a real-time fall detection system leveraging YOLOv8 (You Only Look
 * Customizable alerts (visual/sound/notifications) for responders.
 * Optional data logging for incident analysis.
 
-## ⚙ Use Cases:
+## ⚙ Use Cases
 
 * Elderly care facilities
 * Home monitoring systems
@@ -17,7 +17,6 @@ Fall-Guard is a real-time fall detection system leveraging YOLOv8 (You Only Look
 
 ## 🛠️ Technologies Used
 
-### **Technologies Used**  
 - **Computer Vision:** OpenCV for real-time video processing and frame analysis.  
 - **Object Detection:** YOLOv8 (Ultralytics) for accurate human pose estimation and fall detection.  
 - **Programming Language:** Python for backend logic and integration.  
